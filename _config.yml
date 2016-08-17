@@ -1,9 +1,9 @@
 # Site settings
-title: Xwp Blog
-SEOTitle: 楼桑村小秀才 | Xwp Blog
+title: 辣鸡网
+SEOTitle: 辣鸡 | spicychicken
 header-img: img/home-bg.jpg
 email: lity2009@gmail.com
-description: "什么鬼"
+description: "辣鸡网 什么鬼"
 keyword: ""
 url: "http://spicychicken.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
