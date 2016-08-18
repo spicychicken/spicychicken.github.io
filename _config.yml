@@ -48,7 +48,7 @@ kramdown:
 
 
 # Disqus settings
-#disqus_username: _your_disqus_short_name_
+disqus_username: spicychicken-github-io
 
 # Duoshuo settings
 duoshuo_username: spicychicken
@@ -83,7 +83,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "轻根君",
+        title: "轻根菌",
         href: "http://blog.fcsite.me/"
     }
 ]

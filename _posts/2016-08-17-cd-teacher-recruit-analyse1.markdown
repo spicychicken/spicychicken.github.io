@@ -25,26 +25,39 @@ tags:
 
 感叹竞争之激烈, 是我们这些没参与过的人难以理解的. 作为一个IT屌丝, 想要为她们做些什么, 于是有了下面这份2016-06成都教师公招笔试统计分析报告. 
 
-**数据来源: 所有原始数据均来自于成都地区各教育网站及其他人事网站发布的笔试成绩 **
+**数据来源: 所有原始数据均来自于成都地区各教育网站及其他人事网站发布的笔试成绩**
+
+**数据总量: 有些地区的成绩没有纳入统计, 并且剔除掉一部分职高,特殊教育类的数据, 整个统计样本为: 14698**
+
+**对历史参考的一点说明: 历史参考基于2016年前历届公招考试成绩统计分析而成. 其中, 对于同一考生的认定条件: 如果同名同姓, 且报考的为同一学历阶段的岗位. 很明显, 这有很大的误差,甚至是错误. 该项统计仅供参考.**
+
+**一点感想: 成都地区小学老师需求量最高, 初中次之, 高中最少. 另外一方面: 对自己现状最不满的是小学老师(历史参考人数最多, 频率最高), 初中次之, 高中最小.**
+
+话不多说, 请看图.
 
 ## 2016-06成都教师公招各地区参考统计
 ![](/img/in-post/2016-08-17-cd-teacher-recruit-analyse1/1.png)
+[查看大图](https://spicychicken.github.io/img/in-post/2016-08-17-cd-teacher-recruit-analyse1/1.png)
 <br />
 
 ## 2016-06成都教师公招各岗位参考统计
 ![](/img/in-post/2016-08-17-cd-teacher-recruit-analyse1/2.png)
+[查看大图](https://spicychicken.github.io/img/in-post/2016-08-17-cd-teacher-recruit-analyse1/2.png)
 <br />
 
 ## 2016-06成都小学考生历史参考情况统计
 ![](/img/in-post/2016-08-17-cd-teacher-recruit-analyse1/3.png)
+[查看大图](https://spicychicken.github.io/img/in-post/2016-08-17-cd-teacher-recruit-analyse1/3.png)
 <br />
 
 ## 2016-06成都初中考生历史参考情况统计
 ![](/img/in-post/2016-08-17-cd-teacher-recruit-analyse1/4.png)
+[查看大图](https://spicychicken.github.io/img/in-post/2016-08-17-cd-teacher-recruit-analyse1/4.png)
 <br />
 
 ## 2016-06成都高中考生历史参考情况统计
 ![](/img/in-post/2016-08-17-cd-teacher-recruit-analyse1/5.png)
+[查看大图](https://spicychicken.github.io/img/in-post/2016-08-17-cd-teacher-recruit-analyse1/5.png)
 <br />
 
 待续
